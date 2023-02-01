@@ -8,26 +8,26 @@
     "website": "https://tangnay-tech-blogs.herokuapp.com/"
   },
   {
-    "title": "Epic Todo App",
+    "title": "Socuak Network API",
     "subtitle": "React Hooks",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    "image": "./project-4.gif",
-    "github": "https://github.com/Tangnay/ecommerce",
-    "website": "https://tangnay-tech-blogs.herokuapp.com/"
+    "image": "",
+    "github": "https://github.com/Tangnay/social-netowrk-api",
+    "website": ""
   },
   {
-    "title": "React Reserve",
+    "title": "Note Taker",
     "subtitle": "MERN Stack",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    "image": "./project-1.gif",
-    "github": "https://reactbootcamp.com",
-    "website": "https://tangnay-tech-blogs.herokuapp.com/"
+    "image": "",
+    "github": "https://github.com/Tangnay/note-taker",
+    "website": ""
   },
   {
     "title": "React Tracks",
     "subtitle": "React and Python",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    "image": "./project-2.gif",
+    "image": "",
     "github": "https://reactbootcamp.com",
     "website": "https://tangnay-tech-blogs.herokuapp.com/"
   },
@@ -35,15 +35,15 @@
     "title": "DevChat",
     "subtitle": "React and Firebase",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    "image": "./project-3.gif",
+    "image": "",
     "github": "https://reactbootcamp.com",
     "website": "https://tangnay-tech-blogs.herokuapp.com/"
   },
   {
-    "title": "Epic Todo App",
+    "title": "Techblog",
     "subtitle": "React Hooks",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    "image": "./project-4.gif",
+    "image": "",
     "github": "https://reactbootcamp.com",
     "website": "https://tangnay-tech-blogs.herokuapp.com/"
   }
