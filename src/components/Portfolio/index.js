@@ -39,6 +39,22 @@ export default function Portfolio() {
                     {project.title}
                   </h1>
                   <p className="leading-relaxed">{project.description}</p>
+                  <div className="flex justify-center">
+                    <a
+                      href={project.website}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <img alt="website" className="" src="heroku.svg" />
+                    </a>
+                    <a
+                      href={project.github}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <img alt="github" className="" src="github.svg" />
+                    </a>
+                  </div>
                 </div>
               </div>
             </a>
