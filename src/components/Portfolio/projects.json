@@ -8,43 +8,43 @@
     "website": "https://tangnay-tech-blogs.herokuapp.com/"
   },
   {
-    "title": "Socuak Network API",
-    "subtitle": "React",
+    "title": "Social Network",
+    "subtitle": "API",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    "image": "",
+    "image": "./social-network.png",
     "github": "https://github.com/Tangnay/social-netowrk-api",
     "website": ""
   },
   {
     "title": "Note Taker",
-    "subtitle": "MERN Stack",
+    "subtitle": "",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    "image": "",
+    "image": "./note-taker.png",
     "github": "https://github.com/Tangnay/note-taker",
     "website": ""
   },
   {
-    "title": "React Tracks",
-    "subtitle": "",
+    "title": "The project III",
+    "subtitle": "The final code down",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    "image": "",
-    "github": "https://reactbootcamp.com",
-    "website": "https://tangnay-tech-blogs.herokuapp.com/"
+    "image": "./final-code-down.png",
+    "github": "https://github.com/Tangnay/TheFinalCodeDown",
+    "website": "https://barscapes.herokuapp.com/"
   },
   {
-    "title": "",
-    "subtitle": "",
+    "title": "code -quiz",
+    "subtitle": "JS",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    "image": "",
-    "github": "https://reactbootcamp.com",
-    "website": "https://tangnay-tech-blogs.herokuapp.com/"
+    "image": "./code-quiz.png",
+    "github": "https://github.com/Tangnay/code-quiz",
+    "website": ""
   },
   {
-    "title": "Techblog",
+    "title": "weather app",
     "subtitle": "",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    "image": "",
-    "github": "https://reactbootcamp.com",
-    "website": "https://tangnay-tech-blogs.herokuapp.com/"
+    "image": "./weather-app.png",
+    "github": "https://github.com/Tangnay/weather-app",
+    "website": ""
   }
 ]
