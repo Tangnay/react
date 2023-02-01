@@ -5,7 +5,7 @@ import projects from "./projects.json";
 
 export default function Portfolio() {
   return (
-    <section id="portfolio" className="text-gray-400 bg-gray-900 body-font">
+    <section id="portfolio" className="text-gray-400 body-font">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
@@ -41,18 +41,18 @@ export default function Portfolio() {
                   <p className="leading-relaxed">{project.description}</p>
                   <div className="flex justify-center">
                     <a
-                      href={project.website}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <img alt="website" className="" src="heroku.svg" />
-                    </a>
-                    <a
                       href={project.github}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <img alt="github" className="" src="github.svg" />
+                    </a>
+                    <a
+                      href={project.website}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <img alt="website" className="" src="heroku.svg" />
                     </a>
                   </div>
                 </div>

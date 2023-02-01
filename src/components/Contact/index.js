@@ -51,7 +51,7 @@ export default function Contact() {
   };
 
   return (
-    <section id="contact" className="relative">
+    <section id="contact" className="text-gray-400 bg-gray-900 h-screen">
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
         <form onSubmit={handleSubmit} className="w-full max-w-sm">
           <div className="md:flex md:items-center mb-6">
